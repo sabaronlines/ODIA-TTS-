@@ -1,0 +1,9 @@
+{
+  "site_name": "Odia-Hindi TTS",
+  "admin_user": "admin",
+  "admin_pass": "12345",
+  "ad_code": "<div style=\"padding:8px;color:#9ff\">Ad slot (set from admin)</div>",
+  "azure_key": "",
+  "azure_region": "",
+  "theme": "blue-purple"
+}
